@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Camiseta",
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Calça Jeans",
+      "price": 59.99
+    },
+    {
+      "id": 3,
+      "name": "Vestido",
+      "price": 39.99
+    },
+    {
+      "id": 4,
+      "name": "Camisa Polo",
+      "price": 34.99
+    },
+    {
+      "id": 5,
+      "name": "Saia",
+      "price": 24.99
+    },
+    {
+      "id": 6,
+      "name": "Blazer",
+      "price": 79.99
+    },
+    {
+      "id": 7,
+      "name": "Jaqueta de Couro",
+      "price": 129.99
+    },
+    {
+      "id": 8,
+      "name": "Shorts Jeans",
+      "price": 19.99
+    }
+  ]
+}
